@@ -1,5 +1,5 @@
-## [Day19](https://adventofcode.com/2020/day/19)
-[Input File](https://adventofcode.com/2020/day/19/input)
+## [Day20](https://adventofcode.com/2020/day/20)
+[Input File](https://adventofcode.com/2020/day/20/input)
 
 --- Day 20: Jurassic Jigsaw ---
 The high-speed train leaves the forest and quickly carries you south. You can even see a desert in the distance! Since you have some spare time, you might as well see if there was anything interesting in the image the Mythical Information Bureau satellite captured.
