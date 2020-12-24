@@ -1,4 +1,4 @@
-## [Day22](https://adventofcode.com/2020/day/212)
+## [Day22](https://adventofcode.com/2020/day/22)
 [Input File](https://adventofcode.com/2020/day/22/input)
 
 --- Day 22: Crab Combat ---
